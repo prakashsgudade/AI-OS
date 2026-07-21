@@ -1,1 +1,9 @@
+APP_NAME = "AI OS"
 
+VERSION = "1.0"
+
+DEVELOPER = "Prakash"
+
+AI_NAME = "AI"
+
+OFFLINE_MODE = True
